@@ -1,0 +1,59 @@
+/* Estilo geral da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+
+/* Área principal */
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+/* Título principal */
+h1 {
+    background-color: #087f23;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+/* Subtítulos */
+h2 {
+    color: #087f23;
+    border-bottom: 2px solid #087f23;
+    padding-bottom: 5px;
+}
+
+/* Parágrafos */
+p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+/* Imagens */
+figure {
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 25px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+/* Legendas */
+figcaption {
+    margin-top: 10px;
+    color: #555;
+    font-style: italic;
+}
